@@ -163,16 +163,10 @@ footer {
 }
 
 .husbu {
+    margin: 0 auto; 
     max-width: 235px;
     height: auto;
-    margin-bottom: 10px;
-}
-
-@media (max-width: 600px) {
-    .husbu {
-        max-width: 100%; 
-        margin: 10px 0; 
-        display: block;
-        margin-left: 0;
-    }
+    position: relative; 
+    display: block; 
+    bottom: 10px; 
 }
