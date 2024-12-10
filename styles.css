@@ -163,9 +163,8 @@ footer {
 }
 
 .husbu {
-    margin-left: 350px;
+    float: right; 
     max-width: 235px;
     height: auto;
-    position: absolute;
-    bottom: 10;
+    margin-bottom: 10px;
 }
